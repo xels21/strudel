@@ -1,7 +1,0 @@
-osc(1,.1,1)
-.modulateScale(noise(1,.1))
-.modulateRotate(noise(1,.1))
-.brightness(()=>0.5*fft())
-.mult(src(o0).rotate(Math.PI),1)
-.add(noise(1,1),()=>0.1+0.5*fft())
-.out()

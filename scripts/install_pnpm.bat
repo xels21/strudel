@@ -1,1 +1,0 @@
-powershell -command "Invoke-WebRequest https://get.pnpm.io/install.ps1 -UseBasicParsing | Invoke-Expression"

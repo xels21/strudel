@@ -1,6 +1,0 @@
-[submodule "strudel"]
-	path = strudel
-	url = https://codeberg.org/uzu/strudel.git
-[submodule "strudel-server"]
-	path = strudel-server
-	url = https://github.com/micahkepe/strudel-server.git
